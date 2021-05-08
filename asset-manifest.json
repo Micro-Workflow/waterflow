@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/waterflow/static/css/main.1712eaa1.chunk.css",
-    "main.js": "/waterflow/static/js/main.034800aa.chunk.js",
-    "main.js.map": "/waterflow/static/js/main.034800aa.chunk.js.map",
+    "main.js": "/waterflow/static/js/main.b2704a9b.chunk.js",
+    "main.js.map": "/waterflow/static/js/main.b2704a9b.chunk.js.map",
     "runtime-main.js": "/waterflow/static/js/runtime-main.ee639f4b.js",
     "runtime-main.js.map": "/waterflow/static/js/runtime-main.ee639f4b.js.map",
     "static/css/2.6416b11f.chunk.css": "/waterflow/static/css/2.6416b11f.chunk.css",
-    "static/js/2.c2a45516.chunk.js": "/waterflow/static/js/2.c2a45516.chunk.js",
-    "static/js/2.c2a45516.chunk.js.map": "/waterflow/static/js/2.c2a45516.chunk.js.map",
+    "static/js/2.9e87d580.chunk.js": "/waterflow/static/js/2.9e87d580.chunk.js",
+    "static/js/2.9e87d580.chunk.js.map": "/waterflow/static/js/2.9e87d580.chunk.js.map",
     "static/js/3.acf6655b.chunk.js": "/waterflow/static/js/3.acf6655b.chunk.js",
     "static/js/3.acf6655b.chunk.js.map": "/waterflow/static/js/3.acf6655b.chunk.js.map",
     "index.html": "/waterflow/index.html",
     "static/css/2.6416b11f.chunk.css.map": "/waterflow/static/css/2.6416b11f.chunk.css.map",
     "static/css/main.1712eaa1.chunk.css.map": "/waterflow/static/css/main.1712eaa1.chunk.css.map",
-    "static/js/2.c2a45516.chunk.js.LICENSE.txt": "/waterflow/static/js/2.c2a45516.chunk.js.LICENSE.txt",
+    "static/js/2.9e87d580.chunk.js.LICENSE.txt": "/waterflow/static/js/2.9e87d580.chunk.js.LICENSE.txt",
     "static/media/bpmn-embedded.css": "/waterflow/static/media/bpmn.cfe117ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ee639f4b.js",
     "static/css/2.6416b11f.chunk.css",
-    "static/js/2.c2a45516.chunk.js",
+    "static/js/2.9e87d580.chunk.js",
     "static/css/main.1712eaa1.chunk.css",
-    "static/js/main.034800aa.chunk.js"
+    "static/js/main.b2704a9b.chunk.js"
   ]
 }
